@@ -1,0 +1,9 @@
+c:\users\alexis\documents\visual studio 2015\Projects\TestWebService\TestWebService\bin\Debug\TestWebService.exe.config
+c:\users\alexis\documents\visual studio 2015\Projects\TestWebService\TestWebService\bin\Debug\TestWebService.exe
+c:\users\alexis\documents\visual studio 2015\Projects\TestWebService\TestWebService\bin\Debug\TestWebService.pdb
+c:\users\alexis\documents\visual studio 2015\Projects\TestWebService\TestWebService\obj\Debug\TestWebService.csprojResolveAssemblyReference.cache
+c:\users\alexis\documents\visual studio 2015\Projects\TestWebService\TestWebService\obj\Debug\TestWebService.Form1.resources
+c:\users\alexis\documents\visual studio 2015\Projects\TestWebService\TestWebService\obj\Debug\TestWebService.Properties.Resources.resources
+c:\users\alexis\documents\visual studio 2015\Projects\TestWebService\TestWebService\obj\Debug\TestWebService.csproj.GenerateResource.Cache
+c:\users\alexis\documents\visual studio 2015\Projects\TestWebService\TestWebService\obj\Debug\TestWebService.exe
+c:\users\alexis\documents\visual studio 2015\Projects\TestWebService\TestWebService\obj\Debug\TestWebService.pdb
